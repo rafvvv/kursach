@@ -1,6 +1,6 @@
 #!/bin/bash
 apk update
-apk upgarde -y
+apk upgarde
 apk add nano
 apk add fish
 apk add zsh
